@@ -1,3 +1,4 @@
 # Misiones a completar
 
-*Eliminar a Dra. Mansilla
+* Eliminar a Dra. Mansilla
+* Comer pizza
